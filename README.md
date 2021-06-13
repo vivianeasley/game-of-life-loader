@@ -1,4 +1,5 @@
 # game-of-life-loader
+[DEMO](https://robertpage.github.io/game-of-life-loader/cgl.svg)
 A 7kb SVG loading icon that plays Conway's Game of Life on a 10x10 grid
 
 ## Description
