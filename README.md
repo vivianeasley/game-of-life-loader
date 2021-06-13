@@ -1,7 +1,4 @@
 # game-of-life-loader
-  <object data="https://robertpage.github.io/game-of-life-loader/cgl.svg" type="image/svg+xml">
-    <div>Couldn't get loading icon</div>
-  </object>
 A 7kb SVG loading icon that plays Conway's Game of Life on a 10x10 grid
 
 ## Description
@@ -9,11 +6,11 @@ I realized I hadn't ever made Conway's Game of Life so I built in in an SVG that
 
 ## Usage
 You can either put the code inline, or reference from an external file using the <object> tag:
-<pre>
-    <object data="/cgl.min.svg" type="image/svg+xml">
-      <div>Couldn't get loading icon</div>
-    </object>
-</pre>
+<pre><code> 
+    &lt;object data="/cgl.min.svg" type="image/svg+xml"&gt;
+      &lt;div&gt;Couldn't get loading icon&lt;/div&gt;
+    &lt;/object&gt;
+</code></pre>
 
 ## TODO
 - Replace setTimeout with request animation frame. 
