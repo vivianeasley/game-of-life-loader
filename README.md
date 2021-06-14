@@ -14,5 +14,6 @@ You can either put the code inline, or reference from an external file using the
 </code></pre>
 
 ## TODO
+- Reset when cells exists but reach equilibrium 
 - Replace setTimeout with request animation frame. 
 - Scope JS
